@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+.table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 650px;
+}
+th{
+    background-color: rgb(238, 106, 220);
+}
+table,th,td{
+    border: 1px solid black;
+}
+.command{
+    background-color:whitesmoke;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: gainsboro;
+  }
